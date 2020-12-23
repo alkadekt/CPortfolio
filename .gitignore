@@ -1,0 +1,4 @@
+# Ignored files for git repository
+
+*.o
+*.exe
