@@ -1,0 +1,16 @@
+15
+1 cap 15
+2 ca
+2 cap
+2 pen
+1 cat 20
+2 ca
+2 c
+1 act 10
+1 able 10
+2 a
+1 ace 2
+2 a
+2 ab
+2 ac
+2 ace
